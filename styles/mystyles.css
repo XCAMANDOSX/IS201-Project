@@ -1,0 +1,38 @@
+body {
+    background-color: rgba(245, 245, 220, 0.598);
+}
+
+.bodybackground {
+    background-image: url('../assets/img/General\ Grievous.jpg');
+    
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color:lightblue
+}
+
+.subheading {
+    text-decoration:underline white;
+}
+
+h6 {
+    font-style: italic;
+    font-weight: bold;
+}
+
+h5 {
+    color:rgba(255, 127, 80, 0.363);
+}
+
+.center {
+    text-align: center;
+}
+    
+.resume {
+    text-decoration: underline lightblue;
+    color:lightblue
+}

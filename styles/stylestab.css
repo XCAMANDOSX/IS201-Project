@@ -1,0 +1,62 @@
+html, body {
+   min-height: 100%;
+}
+
+body {
+   background-color:aliceblue
+}
+.common {
+   position: absolute;
+   
+}
+
+.header {
+   top: 5px;
+   left: 5px;
+   right: 5px;
+   height: 100px;
+   background-color: white;
+}
+
+.column {
+   display: inline-block;
+   height: 100%;
+}
+
+.middlesection {
+   height: 1000px;
+   
+}
+
+.mainbody {
+   top: 114px;
+   bottom: 64px;
+   left: 5px;
+   right: 5px;
+   
+}
+
+.footer {
+   bottom: 5px;
+   height: 12px;
+   left: 5px;
+   right: 5px;
+   background-color: white;
+     
+}
+.subheader {
+   float: right;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+figcaption {
+   font-style: italic;
+}
+
+.center {
+   text-align: center;
+}
+
+h2 {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
